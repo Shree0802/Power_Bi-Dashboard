@@ -26,7 +26,5 @@ The **Farmers Market Dashboard** is an interactive Power BI dashboard designed t
 To create a visually appealing and data-driven dashboard that helps market organizers and vendors make informed decisions, improve inventory planning, and understand customer behavior better.
 
 ## 🖼️ Dashboard Preview
-![Farmers Market Dashboard](<img width="671" height="373" alt="Farmers Market Dashboard" src="https://github.com/user-attachments/assets/0e0f6b17-8909-4734-9d9f-b82665180fc2" />
-)
+![Farmers Market Dashboard](Farmers%20Market%20Dashboard.png)
 
-## 📂 Repository Structure
