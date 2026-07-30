@@ -1,4 +1,12 @@
-# Power_Bi-Dashboard
+## 📊 Power BI Dashboard
+
+**Farmer Dashboard**
+
+This project includes an interactive Power BI dashboard for agricultural data analysis.
+
+### Download Dashboard
+
+[📥 Download Farmer Dashboard.pbix](Farmer%20Dashboard.pbix)
 
 ## 📊 Project Overview
 The **Farmers Market Dashboard** is an interactive Power BI dashboard designed to analyze and visualize sales and customer data from farmers markets. It provides insights into product quantities, vendor performance, customer distribution, and booth utilization.
